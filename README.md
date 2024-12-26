@@ -17,7 +17,7 @@ A simple and beautiful sticky notes app for macOS. Create, organize, and connect
 
 ### Direct Download
 
-Download the latest version from the [Releases](https://github.com/f/clues/releases) page:
+Download the latest version from the [Releases](https://github.com/f/Clues.app/releases) page:
 
 1. Download `Clues.dmg`
 2. Open the DMG file
