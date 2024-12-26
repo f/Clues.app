@@ -44,7 +44,7 @@ Download the latest version from the [Releases](https://github.com/f/Clues.app/r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/f/clues.git
+git clone https://github.com/f/Clues.app
 cd clues
 ```
 
