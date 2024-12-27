@@ -55,17 +55,6 @@ open Clues.xcodeproj
 
 3. Build and run (Cmd + R)
 
-### Creating a Release Build
-
-Use the included build script:
-```bash
-./build_app.sh
-```
-
-This will create:
-- A standalone .app in `build/Clues.app`
-- A distributable DMG in `build/Clues.dmg`
-
 ## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
